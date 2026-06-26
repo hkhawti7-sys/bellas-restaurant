@@ -12,7 +12,7 @@ Bella's Restaurent. It runs in the terminal.
 
 ## How to install
 
-You only need Python 3. There are no extra libraries to install.
+Only Python 3 is needed.
 
 ## How to run
 
