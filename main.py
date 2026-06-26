@@ -1,7 +1,6 @@
-"""This is the main program. Run this file to start.
+"""This is the main program.
 
-It shows a simple menu and lets the user make an order for
-Bella's Restaurent.
+It shows the menu and lets the user make an order.
 """
 
 from menu import Menu
